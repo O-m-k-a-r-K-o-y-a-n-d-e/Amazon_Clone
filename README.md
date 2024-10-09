@@ -1,0 +1,1 @@
+"This project is a clone of Amazon.com, created using HTML and CSS. It replicates the homepage layout and design, including navigation menus, product listings, and a responsive grid system. The aim is to practice front-end web development skills while recreating the structure of a popular e-commerce site." 
